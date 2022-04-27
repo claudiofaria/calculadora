@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/tecnologias-web/calculadora-javascript#readme",
   "devDependencies": {
-    "grunt": "^1.1.0",
+    "grunt": "^1.5.2",
     "grunt-contrib-connect": "^2.1.0",
     "grunt-contrib-jasmine": "^2.1.0"
   },
